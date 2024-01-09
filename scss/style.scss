@@ -1,2 +1,7 @@
-@import "config/variable" ;
-@import "base/base"
+@import "configs/variables"; 
+@import "base/base";
+@import "layout/layout";
+/* @import "components/button";
+@import "components/header";
+@import "components/home"; */
+@import "components/mediaqueries";
